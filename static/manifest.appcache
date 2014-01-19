@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# 4
+#CACHE:
+bootloader.js
+
+# if you don't explicitly allow stuff it will never request it again
+# because that's how you wanted it!
+
+#NETWORK:
+#manifest.json
+*
